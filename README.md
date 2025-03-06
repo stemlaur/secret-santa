@@ -32,5 +32,9 @@ Then simply run the program
 
 
 ```mermaid
-  info
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
 ```
