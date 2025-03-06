@@ -29,3 +29,8 @@ Emile is not in couple.
 Francois and Georges are in couple.
 
 Then simply run the program
+
+
+```mermaid
+  info
+```
